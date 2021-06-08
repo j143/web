@@ -1,7 +1,7 @@
 <nav>
   {% for item in site.data.navigation %}
     <!-- https://jekyllrb.com/docs/variables/ -->
-    <a href="{{ item.link }}" {% if page.url == {{ item.link }} %}style="color: green;"{% endif %} >
+    <a href="{{ item.link }}" {% if page.url == {{ item.link }} %}class="current"{% endif %} >
       {{ item.name }}
     </a>
   {% endfor %}
