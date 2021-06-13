@@ -1,0 +1,14 @@
+---
+Layout: article
+title: articles
+---
+<h2>Articles</h2> 
+
+<ul>
+  {% for article in site.articles %}
+    <li>
+      <h2><a href="{{ site.baseurl }}{{ article.url }}">{{ article.title }}</a></h2>
+      {{ article.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
