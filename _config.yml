@@ -1,3 +1,5 @@
+baseurl: /web
+
 collections:
   articles:
     output: true

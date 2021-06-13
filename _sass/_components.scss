@@ -1,0 +1,35 @@
+.prose {
+table {
+    display: block;
+    width: 100%;
+    margin-bottom: 1.5em;
+    overflow: auto;
+
+    // For Firefox to horizontal scroll
+    // wider tables.
+    word-break: normal;
+    word-break: keep-all;
+
+    th {
+      font-weight: bold;
+      text-align: left;
+    }
+
+    th,
+    td {
+      padding: 16px 24px 16px 2px;
+      border-top: 1px solid black;
+      border-bottom: 1px solid black;
+    }
+
+    tr {
+      background-color: #fff;
+      border-top: 1px solid black;
+    }
+
+    tr th {
+      border-top: 2px solid black;
+      border-bottom: 2px solid black;
+    }
+}
+}
