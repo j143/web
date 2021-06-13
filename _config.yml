@@ -1,4 +1,4 @@
-baseurl: /web
+# baseurl: /web
 
 collections:
   articles:
