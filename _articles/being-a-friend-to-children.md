@@ -16,9 +16,7 @@ Start bonding early. Take time to be there for the needs of the child from chang
 
 You approached your child and asked "Shall we play together."  Your child say "No thanks, Dad. I don't want to play now." You feel rejected. \(If he doesn't want to play with me, it's fine why bother!\) You feel self-righteous about asking again.  You feel "I tried once, it won't work for me."
 
-{% hint style="success" %}
-Simply respond with "Okay,  let's make a specific date for another time. What do you think might be fun?"
-{% endhint %}
+📝 Simply respond with "Okay,  let's make a specific date for another time. What do you think might be fun?"
 
 #### 2 You have a very difficult child
 
@@ -30,7 +28,6 @@ Ironically, it is more difficult child who needs you the most. He hears your con
 
 Your child is so bossy because inside she feels so powerless. Your child is a brat because inside he feels frightened and out of control. The patience, self-control, and generosity you can ham from raising a difficult child will also help you better deal with the problematic, troublesome people you will inevitably encounter in daily life.
 
-{% embed url="https://www.youtube.com/watch?v=fbHbTBP\_u7U" caption="Let You Down" %}
 
 _The Gift of Fatherhood: How Men's Lives are Transformed by Their Children_, Fireside, 1994
 
